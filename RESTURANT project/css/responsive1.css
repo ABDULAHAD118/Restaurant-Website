@@ -1,0 +1,60 @@
+.h-primary{
+    font-size: 25px;
+    width: 40%;
+}
+
+.container{
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+#navbar{
+    display: flex;
+    flex-direction: column;
+    margin-top: -175px;
+}
+
+.heading{
+    font-size: 43px;
+}
+
+#navbar ul li a{
+    font-size: 35px;
+}
+.menu{
+    margin: 12px auto;
+    width: 34%;
+    overflow: hidden;
+}
+
+.message{
+    font-size: 26px;
+}
+
+#login{
+    width: 70%;
+}
+
+#home{
+    width: 73%;
+    margin-top: 172px;
+}
+#home div{
+    font-size: 12px;
+}
+
+.information{
+    margin: 12px auto;
+    width: 34%;
+}
+.information h1{
+    font-size: 20px;
+}
+
+.information div{
+    font-size: 13px;
+}
+
+#about{
+    flex-wrap: wrap;
+    overflow: hidden;
+}
